@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Wahaj Ali (@wahaj67)
 
-I’m a **Frontend Developer** focusing on building scalable, responsive, and modern web interfaces using the latest web technologies.
+I’m a **Associate Software Engineer** focusing on building scalable, responsive, and modern web interfaces using the latest web technologies.
 
-- 🌱 **Currently learning:** Next.js, Three.js
-- 🛠️ **Skills:** TypeScript, Redux Toolkit, Next.js, Tailwind CSS, JavaScript, HTML, CSS
-- 🤝 **Looking to collaborate on:** Frontend development projects and UI/UX design improvements
-- 💼 **Available for:** Freelance or contract-based frontend development work
+- 🌱 **Currently learning:** Python, AI Agents,Agentic AI, Django,
+- 🛠️ **Skills:** TypeScript, Redux Toolkit, Next.js, Tailwind CSS, JavaScript, HTML, CSS,python,AI
+- 🤝 **Looking to collaborate on:** fullstack development projects and UI/UX design improvements
+- 💼 **Available for:** Freelance or contract-based fullstack development work
 - 🔍 **Exploring:** Advanced frontend techniques and interactive web experiences
 - 📫 **Reach me at:** wahaj0574@gmail.com
 

@@ -64,6 +64,7 @@ I’m an **Associate Software Engineer** passionate about building modern, scala
 - ⚙️ **Custom APIs** with Fastify for lightning-fast performance
 - 🎨 **Animated UI Experiences** with Framer Motion + ShadCN + TailwindCSS
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
 ---
 
 ## ✨ Fun Fact

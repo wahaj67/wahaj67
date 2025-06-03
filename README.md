@@ -55,6 +55,8 @@ I’m an **Associate Software Engineer** passionate about building modern, scala
 
 ---
 
+[![Wahaj Ali's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wahaj67&radius=18&theme=github-dark&area=true&order=6&hide_title=false&custom_title=WahajAli's%20_Profile)](https://github.com/wahaj67)
+
 ## 🧠 Currently Learning & Building
 
 - 🔁 **Agentic AI Workflows** using LangChain, CrewAI & Python

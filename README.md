@@ -41,9 +41,12 @@ I’m an **Associate Software Engineer** passionate about building modern, scala
 
 ---
 
-### GitHub Trophies
+## GitHub Trophies 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wahaj67)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=wahaj67&theme=dark_lover&margin-w=4)]
+
+
+
 
 ## 📊 GitHub Stats
 

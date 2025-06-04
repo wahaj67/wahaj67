@@ -11,6 +11,15 @@ I’m an **Associate Software Engineer** passionate about building modern, scala
 
 ---
 
+## 🧠 Currently Learning & Building
+
+- 🔁 **Agentic AI Workflows** using LangChain, CrewAI & Python
+- 🌾 **AI Tools for Agriculture** using FastAPI, Streamlit, and IoT integrations
+- ⚙️ **Custom APIs** with Fastify for lightning-fast performance
+- 🎨 **Animated UI Experiences** with Framer Motion + ShadCN + TailwindCSS
+
+---
+
 ## ⚒️ Technologies & Tools
 
 | Frontend Frameworks                        | Styling & UI Libraries                                                                 |
@@ -41,31 +50,24 @@ I’m an **Associate Software Engineer** passionate about building modern, scala
 
 ---
 
+## 📊 GitHub Stats
+
+![Wahaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahaj67&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahaj67&layout=compact&theme=radical)
+
+---
+
+
 ## GitHub Trophies 🏆
 
 [![trophy](https://github-trophies.vercel.app/?username=wahaj67&theme=dark_lover&margin-w=4)]
 
 
 
-
-## 📊 GitHub Stats
-
-![Wahaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahaj67&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahaj67&layout=compact&theme=radical)
-
----
-
 [![Wahaj Ali's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wahaj67&radius=18&theme=github-dark&area=true&order=6&hide_title=false&custom_title=WahajAli's%20_Profile)](https://github.com/wahaj67)
 
-## 🧠 Currently Learning & Building
 
-- 🔁 **Agentic AI Workflows** using LangChain, CrewAI & Python
-- 🌾 **AI Tools for Agriculture** using FastAPI, Streamlit, and IoT integrations
-- ⚙️ **Custom APIs** with Fastify for lightning-fast performance
-- 🎨 **Animated UI Experiences** with Framer Motion + ShadCN + TailwindCSS
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
----
 
 ## ✨ Fun Fact
 
@@ -75,3 +77,5 @@ I turn ☕ coffee into code → 💻 and ideas into products → 🚀.
 ---
 
 > ⚡ Let’s build something future-ready, real, and remarkable together.
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)

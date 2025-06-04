@@ -3,25 +3,40 @@
 I’m an **Associate Software Engineer** passionate about building modern, scalable, and performant web apps. I specialize in crafting seamless UI/UX and integrating the latest AI-powered features into fullstack applications.
 
 - 🌱 **Currently Exploring:** Python, AI Agents, Agentic AI, Django, Node.js, Fastify, FastAPI, LangChain, openAIAgentsSDK, Robotics, CrewAI
-- 🧠 **Interests:** Fullstack Development, AI-Enhanced Apps, Interactive UI/UX, Web Performance, App Perfomance
+- 🧠 **Interests:** Fullstack Development, AI-Enhanced Apps, Interactive UI/UX, Web Performance, App Performance
 - 🛠️ **Core Skills:** TypeScript, Next.js, Tailwind CSS, ShadCN, Redux Toolkit, Fastify, FastAPI, Python, AI Agents
 - 🤝 **Open for Collaboration:** Fullstack SaaS products, AI integrations, UI/UX revamps , Web/App revamps
 - 💼 **Available for:** Freelance or contract-based frontend/fullstack development AI Agents AI Automation
 - 📬 **Let’s Connect:** wahaj0574@gmail.com
-
+- 🌐 [LinkedIn](https://www.linkedin.com/in/wahaj-ali-b3b7a72b5/)
 ---
 
 ## ⚒️ Technologies & Tools
 
-| Frontend Frameworks                        | Styling & UI Libraries                                                                 |
-| ----------------------------------------- | -------------------------------------------------------------------------------------- |
-| ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)      | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) |
-| ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)              | ![ShadCN](https://img.shields.io/badge/ShadCN_UI-121212?logo=shadcnui&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) | ![NextUI](https://img.shields.io/badge/NextUI-000000?logo=vercel&logoColor=white)       |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)        |
-|                                            | ![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?logo=antdesign&logoColor=white) |
+### 🧠 Programming Languages
+| | |
+|---|---|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | |
 
 ---
+
+### ⚙️ Frontend Frameworks & Build Tools
+| | |
+|---|---|
+| ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) |
+| ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB) | |
+
+---
+
+### 🎨 Styling & UI Libraries
+| | |
+|---|---|
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) | ![ShadCN](https://img.shields.io/badge/ShadCN_UI-121212?logo=shadcnui&logoColor=white) |
+| ![NextUI](https://img.shields.io/badge/NextUI-000000?logo=vercel&logoColor=white) | ![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white) |
+| ![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?logo=antdesign&logoColor=white) | |
+
+
 
 | State Management Tools                     | Backend / API Frameworks                                                             |
 | ------------------------------------------ | ------------------------------------------------------------------------------------- |
@@ -32,14 +47,14 @@ I’m an **Associate Software Engineer** passionate about building modern, scala
 
 ---
 
-| AI Tools & Libraries                         | Dev Tools & Testing                                                                  |
-| -------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 🧠 AI Tools & Libraries                         | 🧪 Dev Tools & Testing                                                                  |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------- |
 | ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white)     | ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white) |
-| ![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?logo=openai&logoColor=white)         | ![Pytest](https://img.shields.io/badge/Pytest-3776AB?logo=python&logoColor=white)     |
+| ![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?logo=openai&logoColor=white)         | ![Pytest](https://img.shields.io/badge/Pytest-3776AB?logo=python&logoColor=white)         |
 | ![CrewAI](https://img.shields.io/badge/CrewAI-000?logo=github&logoColor=white)                  | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white) |
-| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)      |                                                                                       |
+| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)      |                                                                                           |
+| ![OpenAI Agent SDK](https://img.shields.io/badge/OpenAI_Agent_SDK-333?logo=openai&logoColor=white) |                                                                                           |
 
----
 
 ## 📊 GitHub Stats
 

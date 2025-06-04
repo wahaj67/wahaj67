@@ -2,21 +2,12 @@
 
 I’m an **Associate Software Engineer** passionate about building modern, scalable, and performant web apps. I specialize in crafting seamless UI/UX and integrating the latest AI-powered features into fullstack applications.
 
-- 🌱 **Currently Exploring:** Python, AI Agents, Agentic AI, Django, Node.js, Fastify, FastAPI
-- 🧠 **Interests:** Fullstack Development, AI-Enhanced Apps, Interactive UI/UX, Web Performance
-- 🛠️ **Core Skills:** TypeScript, Next.js, Tailwind CSS, ShadCN, Redux Toolkit, Fastify, FastAPI, Python, AI
-- 🤝 **Open for Collaboration:** Fullstack SaaS products, AI integrations, UI/UX revamps
-- 💼 **Available for:** Freelance or contract-based frontend/fullstack development
+- 🌱 **Currently Exploring:** Python, AI Agents, Agentic AI, Django, Node.js, Fastify, FastAPI, LangChain, openAIAgentsSDK, Robotics, CrewAI
+- 🧠 **Interests:** Fullstack Development, AI-Enhanced Apps, Interactive UI/UX, Web Performance, App Perfomance
+- 🛠️ **Core Skills:** TypeScript, Next.js, Tailwind CSS, ShadCN, Redux Toolkit, Fastify, FastAPI, Python, AI Agents
+- 🤝 **Open for Collaboration:** Fullstack SaaS products, AI integrations, UI/UX revamps , Web/App revamps
+- 💼 **Available for:** Freelance or contract-based frontend/fullstack development AI Agents AI Automation
 - 📬 **Let’s Connect:** wahaj0574@gmail.com
-
----
-
-## 🧠 Currently Learning & Building
-
-- 🔁 **Agentic AI Workflows** using LangChain, CrewAI & Python
-- 🌾 **AI Tools for Agriculture** using FastAPI, Streamlit, and IoT integrations
-- ⚙️ **Custom APIs** with Fastify for lightning-fast performance
-- 🎨 **Animated UI Experiences** with Framer Motion + ShadCN + TailwindCSS
 
 ---
 
@@ -53,7 +44,6 @@ I’m an **Associate Software Engineer** passionate about building modern, scala
 ## 📊 GitHub Stats
 
 ![Wahaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahaj67&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahaj67&layout=compact&theme=radical)
 
 ---
@@ -62,6 +52,7 @@ I’m an **Associate Software Engineer** passionate about building modern, scala
 ## GitHub Trophies 🏆
 
 [![trophy](https://github-trophies.vercel.app/?username=wahaj67&theme=dark_lover&margin-w=4)]
+
 
 
 
@@ -77,5 +68,6 @@ I turn ☕ coffee into code → 💻 and ideas into products → 🚀.
 ---
 
 > ⚡ Let’s build something future-ready, real, and remarkable together.
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)

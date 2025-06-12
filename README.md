@@ -1,14 +1,8 @@
 # 👋 Hi, I’m Wahaj Ali (@wahaj67)
 
-I’m an **Associate Software Engineer** passionate about building modern, scalable, and performant web apps. I specialize in crafting seamless UI/UX and integrating the latest AI-powered features into fullstack applications.
 
-- 🌱 **Currently Exploring:** Python, AI Agents, Agentic AI, Django, Node.js, Fastify, FastAPI, LangChain, openAIAgentsSDK, Robotics, CrewAI
-- 🧠 **Interests:** Fullstack Development, AI-Enhanced Apps, Interactive UI/UX, Web Performance, App Performance
-- 🛠️ **Core Skills:** TypeScript, Next.js, Tailwind CSS, ShadCN, Redux Toolkit, Fastify, FastAPI, Python, AI Agents
-- 🤝 **Open for Collaboration:** Fullstack SaaS products, AI integrations, UI/UX revamps , Web/App revamps
-- 💼 **Available for:** Freelance or contract-based frontend/fullstack development AI Agents AI Automation
-- 📬 **Let’s Connect:** wahaj0574@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/wahaj-ali-b3b7a72b5/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=650&lines=Associate+Software+Engineer;JS%2FTS+%7C+React+Native+%7C+Next.js+%7C+Python+%7C+AI-Assisted+Dev;Learning+Generative+AI%2C+AI+Agents%2C+Cloud+%26+Robotics)](https://github.com/wahaj67)
+
 ---
 
 ## ⚒️ Technologies & Tools
@@ -74,6 +68,15 @@ I’m an **Associate Software Engineer** passionate about building modern, scala
 [![Wahaj Ali's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wahaj67&radius=18&theme=github-dark&area=true&order=6&hide_title=false&custom_title=WahajAli's%20_Profile)](https://github.com/wahaj67)
 
 
+## About Me
+- 🌱 **Currently Exploring:** Python, AI Agents, Agentic AI, Django, Node.js, Fastify, FastAPI, LangChain, openAIAgentsSDK, Robotics, CrewAI
+- 🧠 **Interests:** Fullstack Development, AI-Enhanced Apps, Interactive UI/UX, Web Performance, App Performance
+- 🛠️ **Core Skills:** TypeScript, Next.js, Tailwind CSS, ShadCN, Redux Toolkit, Fastify, FastAPI, Python, AI Agents
+- 🤝 **Open for Collaboration:** Fullstack SaaS products, AI integrations, UI/UX revamps , Web/App revamps
+- 💼 **Available for:** Freelance or contract-based frontend/fullstack development AI Agents AI Automation
+- 📬 **Let’s Connect:** wahaj0574@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/wahaj-ali-b3b7a72b5/)
+- 
 
 ## ✨ Fun Fact
 

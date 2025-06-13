@@ -4,6 +4,27 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=700&lines=COO+%40+Hashkoders;Tech+Leadership+for+Growth-Stage+Startups;Scalable+Architecture;Driving+Web,+Mobile+%26+AI+Product+Innovation)](https://github.com/wahaj67)
 
 
+## 🚀 About Hashkoders  
+![Hashkoders](https://img.shields.io/badge/Hashkoders-Innovation%20Driven-blueviolet?style=for-the-badge)
+
+**Hashkoders** is a modern tech company helping growth-stage startups and forward-thinking businesses launch & scale faster.  
+We specialize in full-stack SaaS platforms, blazing-fast web/mobile apps, and powerful AI integrations — all tailored to your business goals.
+
+🔹 **What We Deliver:**  
+&nbsp;&nbsp;&nbsp;&nbsp;• MVP to Scalable Products  
+&nbsp;&nbsp;&nbsp;&nbsp;• Intelligent AI Agents & Automation  
+&nbsp;&nbsp;&nbsp;&nbsp;• Modern Web/Mobile Architectures  
+&nbsp;&nbsp;&nbsp;&nbsp;• Cloud-native & Performance-first Development
+
+🔹 **Who We Work With:**  
+&nbsp;&nbsp;&nbsp;&nbsp;• Startups 🚀  
+&nbsp;&nbsp;&nbsp;&nbsp;• Tech-enabled SMBs  
+&nbsp;&nbsp;&nbsp;&nbsp;• Enterprises building future-ready digital products
+
+📨 **Let’s build something game-changing:**  
+[wahaj0574@gmail.com](mailto:wahaj0574@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wahaj-ali-b3b7a72b5/)
+
+[![Visit Website](https://img.shields.io/badge/Visit_Hashkoders.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hashkoders.com/)
 
 ---
 

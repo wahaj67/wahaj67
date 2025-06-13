@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Wahaj Ali (@wahaj67)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=700&lines=Associate+Software+Engineer;JS%2FTS+%7C+React+Native+%7C+Next.js+%7C+Python+%7C+AI-Assisted+Dev;+Learning+Generative+AI%2C+AI+Agents%2C+Cloud+%26+Robotics)](https://github.com/wahaj67)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=700&lines=COO+%40+Hashkoders+%7C+Tech+Leadership+for+Growth-Stage+Startups+%7C+Scalable+Architecture+%7C+Driving+Web,+Mobile+%26+AI+Product+Innovation)](https://github.com/wahaj67)
+
 
 ---
 

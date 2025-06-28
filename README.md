@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Wahaj Ali (@wahaj67)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=800&multiline=true&color=F97316,FACC15,10B981,3B82F6,8B5CF6,E11D48&vCenter=true&lines=Co-Founder+%40+Hashkoders;AI-First+Product+Strategist;Helping+Startups+Launch+%26+Scale+Faster;Building+Scalable+SaaS%2C+AI+%26+Automation+Solutions)](https://github.com/wahaj67)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=700&lines=COO+%40+Hashkoders;Tech+Leadership+for+Growth-Stage+Startups;Scalable+Architecture;Driving+Web,+Mobile+%26+AI+Product+Innovation)](https://github.com/wahaj67)
 
 
 ## 🚀 About Hashkoders  
